@@ -1,0 +1,17 @@
+{
+  "name": "de.tooloop.litjson",
+  "version": "0.18.0",
+  "displayName": "LitJSON ",
+  "description": "This package simply bundles LitJson and makes it installable via the Package Manager.",
+  "documentationUrl": "https://litjson.net/docs/",
+  "changelogUrl": "https://github.com/LitJSON/litjson/releases",
+  "licensesUrl": "https://github.com/LitJSON/litjson/blob/develop/COPYING",
+  "keywords": [
+    "JSON"
+  ],
+  "author": {
+    "name": "Daniel Stock",
+    "email": "daniel.stock@tooloop.de",
+    "url": "https://www.tooloop.de"
+  }
+}
